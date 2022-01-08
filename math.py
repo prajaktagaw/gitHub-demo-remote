@@ -1,15 +1,12 @@
-#add implentation
+#Add implentation
 def add(x,y):
-    return x+y
-#sub implentation    
+    pass
+#Sub implentation    
 def sub(x,y):
-    return x-y
-#mul implentation
+    pass
+#Mul implentation
 def mul(x,y):
-    return x*y
-#div implentation
+    pass
+#Div implentation
 def div(x,y):
-    return x/y
-#square implementation
-def square(x):
-    return x*x
+    pass
